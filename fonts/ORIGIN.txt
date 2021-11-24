@@ -1,0 +1,2 @@
+open-sans-v27-hebrew-* - from https://google-webfonts-helper.herokuapp.com/fonts/open-sans?subsets=hebrew
+Based on https://fonts.google.com/specimen/Open+Sans?query=open+sans&subset=hebrew
